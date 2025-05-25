@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\K233CNT1_TranTheBinh_NETCoreLearning\\MyAppMVC\\",
+  "WorkspaceRootPath": "C:\\k23cnt1_TranTheBinh_NETCoreLearning\\MyAppMVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{60123161-DCD0-44B5-BFE4-00637C650468}|MyAppMVC.csproj|c:\\k233cnt1_tranthebinh_netcorelearning\\myappmvc\\views\\demo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{60123161-DCD0-44B5-BFE4-00637C650468}|MyAppMVC.csproj|c:\\k23cnt1_tranthebinh_netcorelearning\\myappmvc\\views\\demo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{60123161-DCD0-44B5-BFE4-00637C650468}|MyAppMVC.csproj|solutionrelative:views\\demo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60123161-DCD0-44B5-BFE4-00637C650468}|MyAppMVC.csproj|c:\\k233cnt1_tranthebinh_netcorelearning\\myappmvc\\controllers\\democontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{60123161-DCD0-44B5-BFE4-00637C650468}|MyAppMVC.csproj|solutionrelative:controllers\\democontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{60123161-DCD0-44B5-BFE4-00637C650468}|MyAppMVC.csproj|c:\\k23cnt1_tranthebinh_netcorelearning\\myappmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{60123161-DCD0-44B5-BFE4-00637C650468}|MyAppMVC.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60123161-DCD0-44B5-BFE4-00637C650468}|MyAppMVC.csproj|c:\\k233cnt1_tranthebinh_netcorelearning\\myappmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{60123161-DCD0-44B5-BFE4-00637C650468}|MyAppMVC.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{60123161-DCD0-44B5-BFE4-00637C650468}|MyAppMVC.csproj|c:\\k23cnt1_tranthebinh_netcorelearning\\myappmvc\\controllers\\democontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60123161-DCD0-44B5-BFE4-00637C650468}|MyAppMVC.csproj|solutionrelative:controllers\\democontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,40 +28,38 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\K233CNT1_TranTheBinh_NETCoreLearning\\MyAppMVC\\Views\\Demo\\Index.cshtml",
+              "DocumentMoniker": "C:\\k23cnt1_TranTheBinh_NETCoreLearning\\MyAppMVC\\Views\\Demo\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Demo\\Index.cshtml",
-              "ToolTip": "C:\\K233CNT1_TranTheBinh_NETCoreLearning\\MyAppMVC\\Views\\Demo\\Index.cshtml",
+              "ToolTip": "C:\\k23cnt1_TranTheBinh_NETCoreLearning\\MyAppMVC\\Views\\Demo\\Index.cshtml",
               "RelativeToolTip": "Views\\Demo\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-04-21T03:12:59.227Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\K233CNT1_TranTheBinh_NETCoreLearning\\MyAppMVC\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\k23cnt1_TranTheBinh_NETCoreLearning\\MyAppMVC\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\K233CNT1_TranTheBinh_NETCoreLearning\\MyAppMVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\k23cnt1_TranTheBinh_NETCoreLearning\\MyAppMVC\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAC4AAAA7AAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAC4AAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-21T02:54:45.737Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-21T02:54:45.737Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "DemoController.cs",
-              "DocumentMoniker": "C:\\K233CNT1_TranTheBinh_NETCoreLearning\\MyAppMVC\\Controllers\\DemoController.cs",
+              "DocumentMoniker": "C:\\k23cnt1_TranTheBinh_NETCoreLearning\\MyAppMVC\\Controllers\\DemoController.cs",
               "RelativeDocumentMoniker": "Controllers\\DemoController.cs",
-              "ToolTip": "C:\\K233CNT1_TranTheBinh_NETCoreLearning\\MyAppMVC\\Controllers\\DemoController.cs",
+              "ToolTip": "C:\\k23cnt1_TranTheBinh_NETCoreLearning\\MyAppMVC\\Controllers\\DemoController.cs",
               "RelativeToolTip": "Controllers\\DemoController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T02:48:36.964Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-21T02:48:36.964Z"
             }
           ]
         }

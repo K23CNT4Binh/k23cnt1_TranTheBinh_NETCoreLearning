@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\K233CNT1_TranTheBinh_NETCoreLearning\\MyAppMVC\\MyAppMVC.csproj": {}
+    "C:\\k23cnt1_TranTheBinh_NETCoreLearning\\MyAppMVC\\MyAppMVC.csproj": {}
   },
   "projects": {
-    "C:\\K233CNT1_TranTheBinh_NETCoreLearning\\MyAppMVC\\MyAppMVC.csproj": {
+    "C:\\k23cnt1_TranTheBinh_NETCoreLearning\\MyAppMVC\\MyAppMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\K233CNT1_TranTheBinh_NETCoreLearning\\MyAppMVC\\MyAppMVC.csproj",
+        "projectUniqueName": "C:\\k23cnt1_TranTheBinh_NETCoreLearning\\MyAppMVC\\MyAppMVC.csproj",
         "projectName": "MyAppMVC",
-        "projectPath": "C:\\K233CNT1_TranTheBinh_NETCoreLearning\\MyAppMVC\\MyAppMVC.csproj",
+        "projectPath": "C:\\k23cnt1_TranTheBinh_NETCoreLearning\\MyAppMVC\\MyAppMVC.csproj",
         "packagesPath": "C:\\Users\\BinhGold\\.nuget\\packages\\",
-        "outputPath": "C:\\K233CNT1_TranTheBinh_NETCoreLearning\\MyAppMVC\\obj\\",
+        "outputPath": "C:\\k23cnt1_TranTheBinh_NETCoreLearning\\MyAppMVC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
