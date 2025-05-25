@@ -1,0 +1,35 @@
+﻿@model IEnumerable<TtbLesson04.Models.TtbBook>
+
+@{
+    ViewData["Title"] = "Danh sách sách";
+}
+
+<h1>Thông tin các cuốn sách</h1>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Mã sách</th>
+            <th>Tiêu đề</th>
+            <th>Mô tả</th>
+            <th>Ảnh bìa</th>
+            <th>Giá (VNĐ)</th>
+            <th>Số trang</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var ttbItem in Model)
+        {
+            <tr>
+                <td>@ttbItem.TtbId</td>
+                <td>@ttbItem.TtbTitle</td>
+                <td>@ttbItem.TtbDescription</td>
+                <td>
+                    <img src="@ttbItem.TtbImage" alt="@ttbItem.TtbTitle" style="width:100px; height:auto;" />
+                </td>
+                <td>@ttbItem.TtbPrice.ToString("N0")</td>
+                <td>@ttbItem.TtbPage</td>
+            </tr>
+        }
+    </tbody>
+</table>
