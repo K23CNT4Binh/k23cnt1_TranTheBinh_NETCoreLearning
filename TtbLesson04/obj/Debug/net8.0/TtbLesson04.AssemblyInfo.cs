@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TtbLesson04")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+09f32f0b5c24a5f8974b505efaf7abea5ea7e6a0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8817958dfb1dd2041425c9806064d703fa7925d0")]
 [assembly: System.Reflection.AssemblyProductAttribute("TtbLesson04")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TtbLesson04")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

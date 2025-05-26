@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\k23cnt1_TranTheBinh_NETCoreLearning\\TtbLesson04\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{85D3897E-5D50-467F-961A-CAD8229B7FD2}|TtbLesson04.csproj|c:\\k23cnt1_tranthebinh_netcorelearning\\ttblesson04\\views\\shared\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85D3897E-5D50-467F-961A-CAD8229B7FD2}|TtbLesson04.csproj|solutionrelative:views\\shared\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D3897E-5D50-467F-961A-CAD8229B7FD2}|TtbLesson04.csproj|c:\\k23cnt1_tranthebinh_netcorelearning\\ttblesson04\\views\\ttbhome\\ttbabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85D3897E-5D50-467F-961A-CAD8229B7FD2}|TtbLesson04.csproj|solutionrelative:views\\ttbhome\\ttbabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D3897E-5D50-467F-961A-CAD8229B7FD2}|TtbLesson04.csproj|c:\\k23cnt1_tranthebinh_netcorelearning\\ttblesson04\\views\\ttbbook\\ttbindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85D3897E-5D50-467F-961A-CAD8229B7FD2}|TtbLesson04.csproj|solutionrelative:views\\ttbbook\\ttbindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{85D3897E-5D50-467F-961A-CAD8229B7FD2}|TtbLesson04.csproj|c:\\k23cnt1_tranthebinh_netcorelearning\\ttblesson04\\controllers\\ttbbookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{85D3897E-5D50-467F-961A-CAD8229B7FD2}|TtbLesson04.csproj|solutionrelative:controllers\\ttbbookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{85D3897E-5D50-467F-961A-CAD8229B7FD2}|TtbLesson04.csproj|c:\\k23cnt1_tranthebinh_netcorelearning\\ttblesson04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{85D3897E-5D50-467F-961A-CAD8229B7FD2}|TtbLesson04.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{85D3897E-5D50-467F-961A-CAD8229B7FD2}|TtbLesson04.csproj|c:\\k23cnt1_tranthebinh_netcorelearning\\ttblesson04\\views\\ttbbook\\ttbindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{85D3897E-5D50-467F-961A-CAD8229B7FD2}|TtbLesson04.csproj|solutionrelative:views\\ttbbook\\ttbindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{85D3897E-5D50-467F-961A-CAD8229B7FD2}|TtbLesson04.csproj|c:\\k23cnt1_tranthebinh_netcorelearning\\ttblesson04\\models\\ttbbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,16 +31,8 @@
       "RelativeMoniker": "D:0:0:{85D3897E-5D50-467F-961A-CAD8229B7FD2}|TtbLesson04.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85D3897E-5D50-467F-961A-CAD8229B7FD2}|TtbLesson04.csproj|c:\\k23cnt1_tranthebinh_netcorelearning\\ttblesson04\\views\\shared\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{85D3897E-5D50-467F-961A-CAD8229B7FD2}|TtbLesson04.csproj|solutionrelative:views\\shared\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{85D3897E-5D50-467F-961A-CAD8229B7FD2}|TtbLesson04.csproj|c:\\k23cnt1_tranthebinh_netcorelearning\\ttblesson04\\controllers\\ttbhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{85D3897E-5D50-467F-961A-CAD8229B7FD2}|TtbLesson04.csproj|solutionrelative:controllers\\ttbhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{85D3897E-5D50-467F-961A-CAD8229B7FD2}|TtbLesson04.csproj|c:\\k23cnt1_tranthebinh_netcorelearning\\ttblesson04\\views\\ttbhome\\ttbabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{85D3897E-5D50-467F-961A-CAD8229B7FD2}|TtbLesson04.csproj|solutionrelative:views\\ttbhome\\ttbabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{85D3897E-5D50-467F-961A-CAD8229B7FD2}|TtbLesson04.csproj|c:\\k23cnt1_tranthebinh_netcorelearning\\ttblesson04\\views\\ttbhome\\ttbindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -54,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
@@ -71,20 +71,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "TtbBookController.cs",
               "DocumentMoniker": "C:\\k23cnt1_TranTheBinh_NETCoreLearning\\TtbLesson04\\Controllers\\TtbBookController.cs",
               "RelativeDocumentMoniker": "Controllers\\TtbBookController.cs",
               "ToolTip": "C:\\k23cnt1_TranTheBinh_NETCoreLearning\\TtbLesson04\\Controllers\\TtbBookController.cs",
               "RelativeToolTip": "Controllers\\TtbBookController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAA7wBIAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAkwBIAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-25T17:20:44.926Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "TtbBook.cs",
               "DocumentMoniker": "C:\\k23cnt1_TranTheBinh_NETCoreLearning\\TtbLesson04\\Models\\TtbBook.cs",
               "RelativeDocumentMoniker": "Models\\TtbBook.cs",
@@ -92,12 +92,11 @@
               "RelativeToolTip": "Models\\TtbBook.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAxwAkAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-25T17:13:32.739Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-25T17:13:32.739Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "C:\\k23cnt1_TranTheBinh_NETCoreLearning\\TtbLesson04\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
@@ -105,12 +104,11 @@
               "RelativeToolTip": "Models\\ErrorViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-25T17:12:45.463Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-25T17:12:45.463Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\k23cnt1_TranTheBinh_NETCoreLearning\\TtbLesson04\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -118,25 +116,24 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAADwvxsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-25T17:02:58.309Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-25T17:02:58.309Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "_Header.cshtml",
               "DocumentMoniker": "C:\\k23cnt1_TranTheBinh_NETCoreLearning\\TtbLesson04\\Views\\Shared\\_Header.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Header.cshtml",
               "ToolTip": "C:\\k23cnt1_TranTheBinh_NETCoreLearning\\TtbLesson04\\Views\\Shared\\_Header.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Header.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-25T16:46:21.86Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "TtbAbout.cshtml",
               "DocumentMoniker": "C:\\k23cnt1_TranTheBinh_NETCoreLearning\\TtbLesson04\\Views\\TtbHome\\TtbAbout.cshtml",
               "RelativeDocumentMoniker": "Views\\TtbHome\\TtbAbout.cshtml",
@@ -157,12 +154,11 @@
               "RelativeToolTip": "Views\\TtbHome\\TtbIndex.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-25T16:57:58.63Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-25T16:57:58.63Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "TtbHomeController.cs",
               "DocumentMoniker": "C:\\k23cnt1_TranTheBinh_NETCoreLearning\\TtbLesson04\\Controllers\\TtbHomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\TtbHomeController.cs",
@@ -170,8 +166,7 @@
               "RelativeToolTip": "Controllers\\TtbHomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-25T16:56:13.665Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-25T16:56:13.665Z"
             },
             {
               "$type": "Document",
@@ -183,8 +178,7 @@
               "RelativeToolTip": "Views\\Shared\\_Footer.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAABvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-25T16:50:51.741Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-25T16:50:51.741Z"
             },
             {
               "$type": "Document",
@@ -196,8 +190,7 @@
               "RelativeToolTip": "Views\\Shared\\_TtbLayout.cshtml",
               "ViewState": "AgIAAAoAAAAAAAAAAAAAABEAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-25T16:41:45.048Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-25T16:41:45.048Z"
             }
           ]
         }
