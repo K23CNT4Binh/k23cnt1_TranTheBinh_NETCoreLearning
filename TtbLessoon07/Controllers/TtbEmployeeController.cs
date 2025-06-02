@@ -44,27 +44,54 @@ namespace TtbLesson07.Controllers
             }
         }
 
-        public IActionResult TtbEdit(int id)
+       [HttpGet]
+public IActionResult TtbEdit(int id)
+{
+    var model = ttbListEmployees.FirstOrDefault(x => x.TtbId == id);
+    return View(model);
+}
+
+[HttpPost]
+[ValidateAntiForgeryToken]
+public IActionResult TtbEdit(TtbEmployee model)
+{
+    var employee = ttbListEmployees.FirstOrDefault(e => e.TtbId == model.TtbId);
+    if (employee != null)
+    {
+        employee.TtbName = model.TtbName;
+        employee.TtbBirthDay = model.TtbBirthDay;
+        employee.TtbEmail = model.TtbEmail;
+        employee.TtbPhone = model.TtbPhone;
+        employee.TtbSalary = model.TtbSalary;
+        employee.TtbStatus = model.TtbStatus;
+    }
+    return RedirectToAction(nameof(TtbIndex));
+}
+
+
+        public IActionResult TtbDelete(int id)
         {
-            var model = ttbListEmployees.FirstOrDefault(x => x.TtbId == id);
-            return View(model);
+            var model = ttbListEmployees.FirstOrDefault(e => e.TtbId == id);
+            if (model == null)
+            {
+                return NotFound();
+            }
+            return View(model); // view xác nhận xóa
         }
 
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public IActionResult TtbEdit(TtbEmployee model)
+        public IActionResult TtbDeleteConfirmed(int id)
         {
-            var employee = ttbListEmployees.FirstOrDefault(e => e.TtbId == model.TtbId);
+            var employee = ttbListEmployees.FirstOrDefault(e => e.TtbId == id);
             if (employee != null)
             {
-                employee.TtbName = model.TtbName;
-                employee.TtbBirthDay = model.TtbBirthDay;
-                employee.TtbEmail = model.TtbEmail;
-                employee.TtbPhone = model.TtbPhone;
-                employee.TtbSalary = model.TtbSalary;
-                employee.TtbStatus = model.TtbStatus;
+                ttbListEmployees.Remove(employee);
             }
             return RedirectToAction(nameof(TtbIndex));
         }
+
+
+        
     }
 }

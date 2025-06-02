@@ -72,7 +72,12 @@
                 <td>
                     @Html.ActionLink("Edit", "TtbEdit", new { id = item.TtbId }) |
                     @Html.ActionLink("Details", "Details", new { id = item.TtbId }) |
-                    @Html.ActionLink("Delete", "Delete", new { id = item.TtbId })
+                    <form asp-action="TtbDeleteConfirmed" method="post" style="display:inline">
+                        @Html.AntiForgeryToken()
+                        <input type="hidden" name="id" value="@item.TtbId" />
+                        <button type="submit" class="btn btn-link text-danger" onclick="return confirm('Bạn có chắc muốn xóa?')">Xóa</button>
+                    </form>
+
                 </td>
             </tr>
         }
