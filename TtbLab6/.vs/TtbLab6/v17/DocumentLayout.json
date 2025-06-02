@@ -3,52 +3,36 @@
   "WorkspaceRootPath": "C:\\k23cnt1_TranTheBinh_NETCoreLearning\\TtbLab6\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B3AE115D-4CE1-4132-B839-12CD3B6BD4B6}|TtbLab6.csproj|c:\\k23cnt1_tranthebinh_netcorelearning\\ttblab6\\views\\ttbemployee\\ttblist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B3AE115D-4CE1-4132-B839-12CD3B6BD4B6}|TtbLab6.csproj|solutionrelative:views\\ttbemployee\\ttblist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B3AE115D-4CE1-4132-B839-12CD3B6BD4B6}|TtbLab6.csproj|c:\\k23cnt1_tranthebinh_netcorelearning\\ttblab6\\views\\ttbemployee\\ttbcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B3AE115D-4CE1-4132-B839-12CD3B6BD4B6}|TtbLab6.csproj|solutionrelative:views\\ttbemployee\\ttbcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B3AE115D-4CE1-4132-B839-12CD3B6BD4B6}|TtbLab6.csproj|c:\\k23cnt1_tranthebinh_netcorelearning\\ttblab6\\models\\ttbemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3AE115D-4CE1-4132-B839-12CD3B6BD4B6}|TtbLab6.csproj|solutionrelative:models\\ttbemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B3AE115D-4CE1-4132-B839-12CD3B6BD4B6}|TtbLab6.csproj|c:\\k23cnt1_tranthebinh_netcorelearning\\ttblab6\\controllers\\ttbemployeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B3AE115D-4CE1-4132-B839-12CD3B6BD4B6}|TtbLab6.csproj|solutionrelative:controllers\\ttbemployeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B3AE115D-4CE1-4132-B839-12CD3B6BD4B6}|TtbLab6.csproj|c:\\k23cnt1_tranthebinh_netcorelearning\\ttblab6\\controllers\\ttbhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3AE115D-4CE1-4132-B839-12CD3B6BD4B6}|TtbLab6.csproj|solutionrelative:controllers\\ttbhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B3AE115D-4CE1-4132-B839-12CD3B6BD4B6}|TtbLab6.csproj|c:\\k23cnt1_tranthebinh_netcorelearning\\ttblab6\\views\\shared\\_ttblayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B3AE115D-4CE1-4132-B839-12CD3B6BD4B6}|TtbLab6.csproj|solutionrelative:views\\shared\\_ttblayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B3AE115D-4CE1-4132-B839-12CD3B6BD4B6}|TtbLab6.csproj|c:\\k23cnt1_tranthebinh_netcorelearning\\ttblab6\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{B3AE115D-4CE1-4132-B839-12CD3B6BD4B6}|TtbLab6.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{B3AE115D-4CE1-4132-B839-12CD3B6BD4B6}|TtbLab6.csproj|c:\\k23cnt1_tranthebinh_netcorelearning\\ttblab6\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3AE115D-4CE1-4132-B839-12CD3B6BD4B6}|TtbLab6.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B3AE115D-4CE1-4132-B839-12CD3B6BD4B6}|TtbLab6.csproj|c:\\k23cnt1_tranthebinh_netcorelearning\\ttblab6\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{B3AE115D-4CE1-4132-B839-12CD3B6BD4B6}|TtbLab6.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{B3AE115D-4CE1-4132-B839-12CD3B6BD4B6}|TtbLab6.csproj|c:\\k23cnt1_tranthebinh_netcorelearning\\ttblab6\\controllers\\ttbhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3AE115D-4CE1-4132-B839-12CD3B6BD4B6}|TtbLab6.csproj|solutionrelative:controllers\\ttbhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B3AE115D-4CE1-4132-B839-12CD3B6BD4B6}|TtbLab6.csproj|c:\\k23cnt1_tranthebinh_netcorelearning\\ttblab6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3AE115D-4CE1-4132-B839-12CD3B6BD4B6}|TtbLab6.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B3AE115D-4CE1-4132-B839-12CD3B6BD4B6}|TtbLab6.csproj|c:\\k23cnt1_tranthebinh_netcorelearning\\ttblab6\\views\\ttbhome\\ttbindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B3AE115D-4CE1-4132-B839-12CD3B6BD4B6}|TtbLab6.csproj|solutionrelative:views\\ttbhome\\ttbindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B3AE115D-4CE1-4132-B839-12CD3B6BD4B6}|TtbLab6.csproj|c:\\k23cnt1_tranthebinh_netcorelearning\\ttblab6\\models\\ttbemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3AE115D-4CE1-4132-B839-12CD3B6BD4B6}|TtbLab6.csproj|solutionrelative:models\\ttbemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B3AE115D-4CE1-4132-B839-12CD3B6BD4B6}|TtbLab6.csproj|c:\\k23cnt1_tranthebinh_netcorelearning\\ttblab6\\views\\ttbhome\\ttbabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B3AE115D-4CE1-4132-B839-12CD3B6BD4B6}|TtbLab6.csproj|solutionrelative:views\\ttbhome\\ttbabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B3AE115D-4CE1-4132-B839-12CD3B6BD4B6}|TtbLab6.csproj|c:\\k23cnt1_tranthebinh_netcorelearning\\ttblab6\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B3AE115D-4CE1-4132-B839-12CD3B6BD4B6}|TtbLab6.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B3AE115D-4CE1-4132-B839-12CD3B6BD4B6}|TtbLab6.csproj|c:\\k23cnt1_tranthebinh_netcorelearning\\ttblab6\\views\\shared\\_ttblayout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B3AE115D-4CE1-4132-B839-12CD3B6BD4B6}|TtbLab6.csproj|solutionrelative:views\\shared\\_ttblayout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3AE115D-4CE1-4132-B839-12CD3B6BD4B6}|TtbLab6.csproj|c:\\k23cnt1_tranthebinh_netcorelearning\\ttblab6\\views\\ttbhome\\ttbindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3AE115D-4CE1-4132-B839-12CD3B6BD4B6}|TtbLab6.csproj|solutionrelative:views\\ttbhome\\ttbindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,151 +42,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TtbCreate.cshtml",
-              "DocumentMoniker": "C:\\k23cnt1_TranTheBinh_NETCoreLearning\\TtbLab6\\Views\\TtbEmployee\\TtbCreate.cshtml",
-              "RelativeDocumentMoniker": "Views\\TtbEmployee\\TtbCreate.cshtml",
-              "ToolTip": "C:\\k23cnt1_TranTheBinh_NETCoreLearning\\TtbLab6\\Views\\TtbEmployee\\TtbCreate.cshtml",
-              "RelativeToolTip": "Views\\TtbEmployee\\TtbCreate.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-26T03:57:35.035Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "TtbEmployeeController.cs",
-              "DocumentMoniker": "C:\\k23cnt1_TranTheBinh_NETCoreLearning\\TtbLab6\\Controllers\\TtbEmployeeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\TtbEmployeeController.cs",
-              "ToolTip": "C:\\k23cnt1_TranTheBinh_NETCoreLearning\\TtbLab6\\Controllers\\TtbEmployeeController.cs",
-              "RelativeToolTip": "Controllers\\TtbEmployeeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFQAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T02:50:43.301Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TtbList.cshtml",
-              "DocumentMoniker": "C:\\k23cnt1_TranTheBinh_NETCoreLearning\\TtbLab6\\Views\\TtbEmployee\\TtbList.cshtml",
-              "RelativeDocumentMoniker": "Views\\TtbEmployee\\TtbList.cshtml",
-              "ToolTip": "C:\\k23cnt1_TranTheBinh_NETCoreLearning\\TtbLab6\\Views\\TtbEmployee\\TtbList.cshtml",
-              "RelativeToolTip": "Views\\TtbEmployee\\TtbList.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-26T03:20:22.57Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "_TtbLayout.cshtml",
-              "DocumentMoniker": "C:\\k23cnt1_TranTheBinh_NETCoreLearning\\TtbLab6\\Views\\Shared\\_TtbLayout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_TtbLayout.cshtml",
-              "ToolTip": "C:\\k23cnt1_TranTheBinh_NETCoreLearning\\TtbLab6\\Views\\Shared\\_TtbLayout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_TtbLayout.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACAAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-26T01:54:05.778Z",
-              "EditorCaption": ""
+              "DocumentIndex": 6,
+              "Title": "_TtbLayout.cshtml.css",
+              "DocumentMoniker": "C:\\k23cnt1_TranTheBinh_NETCoreLearning\\TtbLab6\\Views\\Shared\\_TtbLayout.cshtml.css",
+              "RelativeDocumentMoniker": "Views\\Shared\\_TtbLayout.cshtml.css",
+              "ToolTip": "C:\\k23cnt1_TranTheBinh_NETCoreLearning\\TtbLab6\\Views\\Shared\\_TtbLayout.cshtml.css",
+              "RelativeToolTip": "Views\\Shared\\_TtbLayout.cshtml.css",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-02T02:04:19.47Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "TtbHomeController.cs",
-              "DocumentMoniker": "C:\\k23cnt1_TranTheBinh_NETCoreLearning\\TtbLab6\\Controllers\\TtbHomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\TtbHomeController.cs",
-              "ToolTip": "C:\\k23cnt1_TranTheBinh_NETCoreLearning\\TtbLab6\\Controllers\\TtbHomeController.cs",
-              "RelativeToolTip": "Controllers\\TtbHomeController.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAewBEAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T01:55:03.554Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "TtbEmployee.cs",
               "DocumentMoniker": "C:\\k23cnt1_TranTheBinh_NETCoreLearning\\TtbLab6\\Models\\TtbEmployee.cs",
               "RelativeDocumentMoniker": "Models\\TtbEmployee.cs",
               "ToolTip": "C:\\k23cnt1_TranTheBinh_NETCoreLearning\\TtbLab6\\Models\\TtbEmployee.cs",
               "RelativeToolTip": "Models\\TtbEmployee.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAQwAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwAYAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T02:47:47.615Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\k23cnt1_TranTheBinh_NETCoreLearning\\TtbLab6\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "appsettings.Development.json",
-              "ToolTip": "C:\\k23cnt1_TranTheBinh_NETCoreLearning\\TtbLab6\\appsettings.Development.json",
-              "RelativeToolTip": "appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-26T03:49:03.754Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-26T02:47:47.615Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\k23cnt1_TranTheBinh_NETCoreLearning\\TtbLab6\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\k23cnt1_TranTheBinh_NETCoreLearning\\TtbLab6\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-26T03:48:40.82Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
               "Title": "TtbIndex.cshtml",
               "DocumentMoniker": "C:\\k23cnt1_TranTheBinh_NETCoreLearning\\TtbLab6\\Views\\TtbHome\\TtbIndex.cshtml",
               "RelativeDocumentMoniker": "Views\\TtbHome\\TtbIndex.cshtml",
               "ToolTip": "C:\\k23cnt1_TranTheBinh_NETCoreLearning\\TtbLab6\\Views\\TtbHome\\TtbIndex.cshtml",
               "RelativeToolTip": "Views\\TtbHome\\TtbIndex.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-26T03:31:32.676Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\k23cnt1_TranTheBinh_NETCoreLearning\\TtbLab6\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\k23cnt1_TranTheBinh_NETCoreLearning\\TtbLab6\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T02:03:58.662Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "TtbAbout.cshtml",
-              "DocumentMoniker": "C:\\k23cnt1_TranTheBinh_NETCoreLearning\\TtbLab6\\Views\\TtbHome\\TtbAbout.cshtml",
-              "RelativeDocumentMoniker": "Views\\TtbHome\\TtbAbout.cshtml",
-              "ToolTip": "C:\\k23cnt1_TranTheBinh_NETCoreLearning\\TtbLab6\\Views\\TtbHome\\TtbAbout.cshtml",
-              "RelativeToolTip": "Views\\TtbHome\\TtbAbout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-26T01:58:11.214Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 2,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\k23cnt1_TranTheBinh_NETCoreLearning\\TtbLab6\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
@@ -211,6 +91,55 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-26T01:51:00.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_TtbLayout.cshtml",
+              "DocumentMoniker": "C:\\k23cnt1_TranTheBinh_NETCoreLearning\\TtbLab6\\Views\\Shared\\_TtbLayout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_TtbLayout.cshtml",
+              "ToolTip": "C:\\k23cnt1_TranTheBinh_NETCoreLearning\\TtbLab6\\Views\\Shared\\_TtbLayout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_TtbLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-26T01:54:05.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TtbEmployeeController.cs",
+              "DocumentMoniker": "C:\\k23cnt1_TranTheBinh_NETCoreLearning\\TtbLab6\\Controllers\\TtbEmployeeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TtbEmployeeController.cs",
+              "ToolTip": "C:\\k23cnt1_TranTheBinh_NETCoreLearning\\TtbLab6\\Controllers\\TtbEmployeeController.cs",
+              "RelativeToolTip": "Controllers\\TtbEmployeeController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAwCQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T02:50:43.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TtbHomeController.cs",
+              "DocumentMoniker": "C:\\k23cnt1_TranTheBinh_NETCoreLearning\\TtbLab6\\Controllers\\TtbHomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TtbHomeController.cs",
+              "ToolTip": "C:\\k23cnt1_TranTheBinh_NETCoreLearning\\TtbLab6\\Controllers\\TtbHomeController.cs",
+              "RelativeToolTip": "Controllers\\TtbHomeController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAvwBIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T01:55:03.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TtbAbout.cshtml",
+              "DocumentMoniker": "C:\\k23cnt1_TranTheBinh_NETCoreLearning\\TtbLab6\\Views\\TtbHome\\TtbAbout.cshtml",
+              "RelativeDocumentMoniker": "Views\\TtbHome\\TtbAbout.cshtml",
+              "ToolTip": "C:\\k23cnt1_TranTheBinh_NETCoreLearning\\TtbLab6\\Views\\TtbHome\\TtbAbout.cshtml",
+              "RelativeToolTip": "Views\\TtbHome\\TtbAbout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-26T01:58:11.214Z"
             }
           ]
         }
