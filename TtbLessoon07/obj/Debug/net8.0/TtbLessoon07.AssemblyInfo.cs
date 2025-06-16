@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TtbLessoon07")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+06980118b92dd211e7f244fd57c7fdb9f58a0571")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+abc6758ae1d0fb4bde355e087135f746914c6e92")]
 [assembly: System.Reflection.AssemblyProductAttribute("TtbLessoon07")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TtbLessoon07")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TtbLesson08/1.0.0": {
+        "runtime": {
+          "TtbLesson08.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TtbLesson08/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
