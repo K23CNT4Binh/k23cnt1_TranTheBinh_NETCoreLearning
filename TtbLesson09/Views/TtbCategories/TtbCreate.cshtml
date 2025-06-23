@@ -1,0 +1,38 @@
+﻿@model TtbLesson09.Models.Category
+
+@{
+    ViewData["Title"] = "Thêm mới loại danh sách";
+}
+<div class="row">
+    <div class="col-md-6">
+        <form asp-action="TtbCreate">
+            <div asp-validation-summary="ModelOnly" class="text-danger"> </div>
+            <div class="card">
+                <div class="card-header">
+                    <h1>@ViewData["Title"]</h1>
+                </div>
+                <div class="card-body">
+                    <div class="form-group">
+                        <label asp-for="CategoryName" class="control-label mb-1"></label>
+                        <input asp-for="CategoryName" class="form-control" />
+                        <span asp-validation-for="CategoryName" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="card-footer">
+                    <div class="form-group">
+                        <input type="submit" value="Create"name="btnTtbCreate" class="btn btn-primary" />
+                        <a asp-action="TtbIndex">BacktoList</a>
+                    </div>
+                </div>
+          </div>
+        </form>
+
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
+

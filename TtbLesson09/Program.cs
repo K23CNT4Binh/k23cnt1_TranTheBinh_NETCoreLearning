@@ -1,11 +1,14 @@
 using Microsoft.EntityFrameworkCore;
 using TtbLesson09.Models;
 
+
 var builder = WebApplication.CreateBuilder(args);
-var ConnectionString = builder.Configuration.GetConnectionString("TtbBookStoreConnectionString");
-builder.Services.AddDbContext<TtbBookStoreContext>(x=>x.UseSqlServer(ConnectionString));
+
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+var connectionString = builder.Configuration.GetConnectionString("TtbBookStore");
+builder.Services.AddDbContext<TtbBookStoreContext>(x => x.UseSqlServer(connectionString));
 
 var app = builder.Build();
 
@@ -24,8 +27,11 @@ app.UseRouting();
 
 app.UseAuthorization();
 
+
+
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=TtbHome}/{action=TtbIndex}/{id?}");
+    pattern: "{controller=TtbHome}/{action=TtbIndex}/{ttbId?}");
+
 
 app.Run();
