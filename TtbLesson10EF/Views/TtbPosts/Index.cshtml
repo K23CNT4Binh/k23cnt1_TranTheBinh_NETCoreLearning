@@ -1,0 +1,53 @@
+﻿@model IEnumerable<TtbLesson10EF.Models.TtbPost>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.TtbTitle)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TtbImages)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TtbContent)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TtbStatus)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.TtbTitle)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TtbImages)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TtbContent)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TtbStatus)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Ttbid">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.Ttbid">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.Ttbid">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
