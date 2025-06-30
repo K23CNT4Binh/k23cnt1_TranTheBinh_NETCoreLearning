@@ -1,0 +1,81 @@
+﻿@model TtbLesson08.Models.TtbAccount
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h2>Create</h2>
+
+<h4>Account</h4>
+<hr />
+
+<div class="row">
+    <div class="col-md-6">
+        <form asp-action="Create" method="post" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="form-group">
+                <label asp-for="TtbFullName" class="control-label"></label>
+                <input asp-for="TtbFullName" class="form-control" />
+                <span asp-validation-for="TtbFullName" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="TtbEmail" class="control-label"></label>
+                <input asp-for="TtbEmail" class="form-control" />
+                <span asp-validation-for="TtbEmail" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="TtbPhone" class="control-label"></label>
+                <input asp-for="TtbPhone" class="form-control" />
+                <span asp-validation-for="TtbPhone" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="TtbAddress" class="control-label"></label>
+                <input asp-for="TtbAddress" class="form-control" />
+                <span asp-validation-for="TtbAddress" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="TtbAvatar" class="control-label"></label>
+                <input asp-for="TtbAvatar" class="form-control" />
+                <span asp-validation-for="TtbAvatar" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="TtbBirthday" class="control-label"></label>
+                <input asp-for="TtbBirthday" class="form-control" type="date" />
+                <span asp-validation-for="TtbBirthday" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="TtbGender" class="control-label"></label>
+                <input asp-for="TtbGender" class="form-control" />
+                <span asp-validation-for="TtbGender" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="TtbPassword" class="control-label"></label>
+                <input asp-for="TtbPassword" class="form-control" />
+                <span asp-validation-for="TtbPassword" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="TtbFacebook" class="control-label"></label>
+                <input asp-for="TtbFacebook" class="form-control" />
+                <span asp-validation-for="TtbFacebook" class="text-danger"></span>
+            </div>
+
+            <div class="form-group mt-3">
+                <input type="submit" value="Create" class="btn btn-success" />
+                <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @await Html.PartialAsync("_ValidationScriptsPartial")
+}

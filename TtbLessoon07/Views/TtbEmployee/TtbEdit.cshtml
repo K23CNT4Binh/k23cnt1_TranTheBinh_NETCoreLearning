@@ -1,0 +1,63 @@
+﻿@model TtbLesson07.Models.TtbEmployee
+
+@{
+    ViewData["Title"] = "TtbEdit";
+    Layout = "~/Views/Shared/_TtbLayout.cshtml";
+}
+
+<h1>TtbEdit</h1>
+
+<h4>TtbEmployee</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="TtbEdit" method="post">
+            @Html.AntiForgeryToken()
+
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="TtbId" class="control-label"></label>
+                <input asp-for="TtbId" class="form-control" readonly />
+                <span asp-validation-for="TtbId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TtbName" class="control-label"></label>
+                <input asp-for="TtbName" class="form-control" />
+                <span asp-validation-for="TtbName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TtbBirthDay" class="control-label"></label>
+                <input asp-for="TtbBirthDay" class="form-control" />
+                <span asp-validation-for="TtbBirthDay" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TtbEmail" class="control-label"></label>
+                <input asp-for="TtbEmail" class="form-control" />
+                <span asp-validation-for="TtbEmail" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TtbPhone" class="control-label"></label>
+                <input asp-for="TtbPhone" class="form-control" />
+                <span asp-validation-for="TtbPhone" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TtbSalary" class="control-label"></label>
+                <input asp-for="TtbSalary" class="form-control" />
+                <span asp-validation-for="TtbSalary" class="text-danger"></span>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="TtbStatus" />
+                    @Html.DisplayNameFor(model => model.TtbStatus)
+                </label>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="TtbIndex">Back to List</a>
+</div>

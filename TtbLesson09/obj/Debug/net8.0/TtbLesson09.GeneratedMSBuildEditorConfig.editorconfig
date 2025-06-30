@@ -1,0 +1,101 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = TtbLesson09
+build_property.RootNamespace = TtbLesson09
+build_property.ProjectDir = C:\k23cnt1_TranTheBinh_NETCoreLearning\TtbLesson09\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\k23cnt1_TranTheBinh_NETCoreLearning\TtbLesson09
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/k23cnt1_TranTheBinh_NETCoreLearning/TtbLesson09/Views/Shared/TtbError.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFR0YkVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/k23cnt1_TranTheBinh_NETCoreLearning/TtbLesson09/Views/Shared/_TtbNavBar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9UdGJOYXZCYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/k23cnt1_TranTheBinh_NETCoreLearning/TtbLesson09/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/k23cnt1_TranTheBinh_NETCoreLearning/TtbLesson09/Views/TtbCategories/TtbCreate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHRiQ2F0ZWdvcmllc1xUdGJDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/k23cnt1_TranTheBinh_NETCoreLearning/TtbLesson09/Views/TtbCategories/TtbDelete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHRiQ2F0ZWdvcmllc1xUdGJEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/k23cnt1_TranTheBinh_NETCoreLearning/TtbLesson09/Views/TtbCategories/TtbDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHRiQ2F0ZWdvcmllc1xUdGJEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/k23cnt1_TranTheBinh_NETCoreLearning/TtbLesson09/Views/TtbCategories/TtbEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHRiQ2F0ZWdvcmllc1xUdGJFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/k23cnt1_TranTheBinh_NETCoreLearning/TtbLesson09/Views/TtbCategories/TtbIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHRiQ2F0ZWdvcmllc1xUdGJJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/k23cnt1_TranTheBinh_NETCoreLearning/TtbLesson09/Views/TtbHome/TtbAbout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHRiSG9tZVxUdGJBYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/k23cnt1_TranTheBinh_NETCoreLearning/TtbLesson09/Views/TtbHome/TtbIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHRiSG9tZVxUdGJJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/k23cnt1_TranTheBinh_NETCoreLearning/TtbLesson09/Views/TtbPublishers/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHRiUHVibGlzaGVyc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/k23cnt1_TranTheBinh_NETCoreLearning/TtbLesson09/Views/TtbPublishers/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHRiUHVibGlzaGVyc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/k23cnt1_TranTheBinh_NETCoreLearning/TtbLesson09/Views/TtbPublishers/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHRiUHVibGlzaGVyc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/k23cnt1_TranTheBinh_NETCoreLearning/TtbLesson09/Views/TtbPublishers/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHRiUHVibGlzaGVyc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/k23cnt1_TranTheBinh_NETCoreLearning/TtbLesson09/Views/TtbPublishers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHRiUHVibGlzaGVyc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/k23cnt1_TranTheBinh_NETCoreLearning/TtbLesson09/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/k23cnt1_TranTheBinh_NETCoreLearning/TtbLesson09/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/k23cnt1_TranTheBinh_NETCoreLearning/TtbLesson09/Views/Shared/_TtbLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9UdGJMYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-17wg6pxo9u

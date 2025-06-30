@@ -1,0 +1,29 @@
+﻿@model TranTheBinh_2310900012.Models.TtbEmployee
+
+@{
+    ViewData["Title"] = "Chi tiết nhân viên";
+    Layout = "_TtbLayout";
+}
+
+<h2 class="text-info">CHI TIẾT NHÂN VIÊN</h2>
+
+<div>
+    <dl class="row">
+        <dt class="col-sm-3">Mã nhân viên</dt>
+        <dd class="col-sm-9">@Model.TtbEmpId</dd>
+
+        <dt class="col-sm-3">Tên nhân viên</dt>
+        <dd class="col-sm-9">@Model.TtbEmpName</dd>
+
+        <dt class="col-sm-3">Trình độ</dt>
+        <dd class="col-sm-9">@Model.TtbEmpLevel</dd>
+
+        <dt class="col-sm-3">Ngày vào làm</dt>
+        <dd class="col-sm-9">@Model.TtbEmpStartDate.ToString("dd/MM/yyyy")</dd>
+
+        <dt class="col-sm-3">Trạng thái</dt>
+        <dd class="col-sm-9">@((Model.TtbEmpStatus) ? "Show" : "Hide")</dd>
+    </dl>
+</div>
+
+<a asp-action="TtbIndex" class="btn btn-secondary">Quay lại danh sách</a>

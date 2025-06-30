@@ -1,0 +1,37 @@
+﻿@model IEnumerable<TtbLesson09.Models.Publisher>
+
+@{
+    ViewData["Title"] = "Danh sách nhà xuất bản";
+}
+
+<h1 class="text-center">@ViewData["Title"]</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-success">Thêm mới</a>
+</p>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Tên nhà xuất bản</th>
+            <th>Số điện thoại</th>
+            <th>Địa chỉ</th>
+            <th class="text-center">Chức năng</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.PublisherName</td>
+                <td>@item.Phone</td>
+                <td>@item.Address</td>
+                <td class="text-center">
+                    <a asp-action="Edit" asp-route-id="@item.PublisherId" class="btn btn-sm btn-primary">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.PublisherId" class="btn btn-info">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.PublisherId" class="btn btn-danger">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

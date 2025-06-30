@@ -1,0 +1,52 @@
+﻿@model TtbLab6.Models.TtbEmployee
+
+@{
+    ViewData["Title"] = "Thêm nhân viên mới";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<form asp-action="TtbCreateSubmit" method="post">
+    <div class="form-group">
+        <label asp-for="TtbFullName"></label>
+        <input asp-for="TtbFullName" class="form-control" />
+        <span asp-validation-for="TtbFullName" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="TtbBirthDay"></label>
+        <input asp-for="TtbBirthDay" type="date" class="form-control" />
+        <span asp-validation-for="TtbBirthDay" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="TtbEmail"></label>
+        <input asp-for="TtbEmail" type="email" class="form-control" />
+        <span asp-validation-for="TtbEmail" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="TtbPhone"></label>
+        <input asp-for="TtbPhone" class="form-control" />
+        <span asp-validation-for="TtbPhone" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="TtbSalary"></label>
+        <input asp-for="TtbSalary" type="number" class="form-control" />
+        <span asp-validation-for="TtbSalary" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="TtbStatus"></label>
+        <select asp-for="TtbStatus" class="form-control">
+            <option value="true">Đang làm</option>
+            <option value="false">Nghỉ</option>
+        </select>
+        <span asp-validation-for="TtbStatus" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-success mt-3">Lưu</button>
+    <a href="/TtbEmployee/TtbList" class="btn btn-secondary mt-3">Hủy</a>
+</form>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

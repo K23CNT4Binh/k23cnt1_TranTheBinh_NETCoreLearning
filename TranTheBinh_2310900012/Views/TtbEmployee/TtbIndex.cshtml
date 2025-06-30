@@ -1,0 +1,42 @@
+﻿@model IEnumerable<TranTheBinh_2310900012.Models.TtbEmployee>
+
+@{
+    ViewData["Title"] = "Danh sách nhân viên";
+    Layout = "_TtbLayout";
+}
+
+<h2 class="text-center text-primary">DANH SÁCH NHÂN VIÊN</h2>
+
+<p class="text-end">
+    <a asp-action="TtbCreate" class="btn btn-success">Thêm mới nhân viên</a>
+</p>
+
+<table class="table table-bordered table-striped">
+    <thead class="table-dark">
+        <tr>
+            <th>ID</th>
+            <th>Tên nhân viên</th>
+            <th>Trình độ</th>
+            <th>Ngày vào làm</th>
+            <th>Trạng thái</th>
+            <th class="text-center">Chức năng</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.TtbEmpId</td>
+                <td>@item.TtbEmpName</td>
+                <td>@item.TtbEmpLevel</td>
+                <td>@item.TtbEmpStartDate.ToString("dd/MM/yyyy")</td>
+                <td>@(item.TtbEmpStatus ? "Show" : "Hide")</td>
+                <td class="text-center">
+                    <a asp-action="TtbEdit" asp-route-id="@item.TtbEmpId" class="btn btn-sm btn-warning">Sửa</a>
+                    <a asp-action="TtbDetails" asp-route-id="@item.TtbEmpId" class="btn btn-sm btn-info">Chi tiết</a>
+                    <a asp-action="TtbDelete" asp-route-id="@item.TtbEmpId" class="btn btn-sm btn-danger">Xóa</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

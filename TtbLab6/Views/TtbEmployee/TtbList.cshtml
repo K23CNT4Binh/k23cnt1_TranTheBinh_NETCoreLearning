@@ -1,0 +1,42 @@
+﻿@model List<TtbLab6.Models.TtbEmployee>
+
+@{
+    ViewData["Title"] = "Danh sách nhân viên";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<a href="/TtbEmployee/TtbCreate" class="btn btn-primary mb-3">Thêm nhân viên mới</a>
+
+<table class="table table-bordered table-striped">
+    <thead class="table-dark">
+        <tr>
+            <th>ID</th>
+            <th>Họ tên</th>
+            <th>Ngày sinh</th>
+            <th>Email</th>
+            <th>Điện thoại</th>
+            <th>Lương</th>
+            <th>Trạng thái</th>
+            <th>Hành động</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var emp in Model)
+        {
+            <tr>
+                <td>@emp.TtbId</td>
+                <td>@emp.TtbFullName</td>
+                <td>@emp.TtbBirthDay.ToString("dd/MM/yyyy")</td>
+                <td>@emp.TtbEmail</td>
+                <td>@emp.TtbPhone</td>
+                <td>@emp.TtbSalary.ToString("C0")</td>
+                <td>@(emp.TtbStatus ? "Đang làm" : "Nghỉ")</td>
+                <td>
+                    <a href="/TtbEmployee/TtbEdit/@emp.TtbId" class="btn btn-warning btn-sm">Sửa</a>
+                    <a href="/TtbEmployee/TtbDelete/@emp.TtbId" class="btn btn-danger btn-sm" onclick="return confirm('Bạn có chắc chắn muốn xóa nhân viên này?');">Xóa</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

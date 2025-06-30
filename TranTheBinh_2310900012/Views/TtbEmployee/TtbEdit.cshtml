@@ -1,0 +1,30 @@
+﻿@model TranTheBinh_2310900012.Models.TtbEmployee
+
+@{
+    ViewData["Title"] = "Chỉnh sửa nhân viên";
+    Layout = "_TtbLayout";
+}
+
+<h2 class="text-primary">CHỈNH SỬA THÔNG TIN NHÂN VIÊN</h2>
+
+<form asp-action="TtbEdit">
+    <input type="hidden" asp-for="TtbEmpId" />
+    <div class="form-group">
+        <label asp-for="TtbEmpName" class="control-label"></label>
+        <input asp-for="TtbEmpName" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="TtbEmpLevel" class="control-label"></label>
+        <input asp-for="TtbEmpLevel" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="TtbEmpStartDate" class="control-label"></label>
+        <input asp-for="TtbEmpStartDate" type="date" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="TtbEmpStatus" class="control-label"></label>
+        <input asp-for="TtbEmpStatus" type="checkbox" />
+    </div>
+    <button type="submit" class="btn btn-primary">Lưu</button>
+    <a asp-action="TtbIndex" class="btn btn-secondary">Quay lại</a>
+</form>

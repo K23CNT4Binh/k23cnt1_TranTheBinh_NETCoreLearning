@@ -1,0 +1,32 @@
+﻿@model TranTheBinh_2310900012.Models.TtbEmployee
+
+@{
+    ViewData["Title"] = "Xóa nhân viên";
+    Layout = "_TtbLayout";
+}
+
+<h2 class="text-danger">BẠN CÓ CHẮC MUỐN XÓA?</h2>
+
+<div>
+    <h4>Thông tin nhân viên</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-3">Tên nhân viên</dt>
+        <dd class="col-sm-9">@Model.TtbEmpName</dd>
+
+        <dt class="col-sm-3">Trình độ</dt>
+        <dd class="col-sm-9">@Model.TtbEmpLevel</dd>
+
+        <dt class="col-sm-3">Ngày vào làm</dt>
+        <dd class="col-sm-9">@Model.TtbEmpStartDate.ToString("dd/MM/yyyy")</dd>
+
+        <dt class="col-sm-3">Trạng thái</dt>
+        <dd class="col-sm-9">@((Model.TtbEmpStatus) ? "Show" : "Hide")</dd>
+    </dl>
+
+    <form asp-action="TtbDelete">
+        <input type="hidden" asp-for="TtbEmpId" />
+        <button type="submit" class="btn btn-danger">Xác nhận xóa</button>
+        <a asp-action="TtbIndex" class="btn btn-secondary">Hủy</a>
+    </form>
+</div>

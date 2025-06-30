@@ -1,0 +1,85 @@
+﻿@model IEnumerable<TtbLesson07.Models.TtbEmployee>
+
+@{
+    ViewData["Title"] = "TtbIndex";
+    Layout = "~/Views/Shared/_TtbLayout.cshtml";
+}
+
+<h1>DANH SÁCH SINH VIÊN</h1>
+
+<p>
+    <a asp-action="TtbCreate" class="btn btn-primary">Thêm mới</a>
+</p>
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.First().TtbId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.First().TtbName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.First().TtbBirthDay)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.First().TtbEmail)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.First().TtbPhone)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.First().TtbSalary)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.First().TtbStatus)
+            </th>
+            <th>Chức năng</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.TtbId)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.TtbName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.TtbBirthDay)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.TtbEmail)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.TtbPhone)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.TtbSalary)
+                </td>
+                <td>
+                    @if (item.TtbStatus)
+                    {
+                        <span class="badge bg-success">Hoạt động</span>
+                    }
+                    else
+                    {
+                        <span class="badge bg-danger">Không hoạt động</span>
+                    }
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "TtbEdit", new { id = item.TtbId }) |
+                    @Html.ActionLink("Details", "Details", new { id = item.TtbId }) |
+                    <form asp-action="TtbDeleteConfirmed" method="post" style="display:inline">
+                        @Html.AntiForgeryToken()
+                        <input type="hidden" name="id" value="@item.TtbId" />
+                        <button type="submit" class="btn btn-link text-danger" onclick="return confirm('Bạn có chắc muốn xóa?')">Xóa</button>
+                    </form>
+
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
