@@ -1,0 +1,569 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\k23cnt1_TranTheBinh_NETCoreLearning\\ECommerceMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73906F00-79E8-462A-8C4D-EAE28BA4F112}|ECommerceMVC.csproj|c:\\k23cnt1_tranthebinh_netcorelearning\\ecommercemvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73906F00-79E8-462A-8C4D-EAE28BA4F112}|ECommerceMVC.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73906F00-79E8-462A-8C4D-EAE28BA4F112}|ECommerceMVC.csproj|c:\\k23cnt1_tranthebinh_netcorelearning\\ecommercemvc\\controllers\\hanghoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73906F00-79E8-462A-8C4D-EAE28BA4F112}|ECommerceMVC.csproj|solutionrelative:controllers\\hanghoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73906F00-79E8-462A-8C4D-EAE28BA4F112}|ECommerceMVC.csproj|c:\\k23cnt1_tranthebinh_netcorelearning\\ecommercemvc\\ecommercemvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{73906F00-79E8-462A-8C4D-EAE28BA4F112}|ECommerceMVC.csproj|solutionrelative:ecommercemvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73906F00-79E8-462A-8C4D-EAE28BA4F112}|ECommerceMVC.csproj|c:\\k23cnt1_tranthebinh_netcorelearning\\ecommercemvc\\wwwroot\\404.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73906F00-79E8-462A-8C4D-EAE28BA4F112}|ECommerceMVC.csproj|solutionrelative:wwwroot\\404.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73906F00-79E8-462A-8C4D-EAE28BA4F112}|ECommerceMVC.csproj|c:\\k23cnt1_tranthebinh_netcorelearning\\ecommercemvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{73906F00-79E8-462A-8C4D-EAE28BA4F112}|ECommerceMVC.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73906F00-79E8-462A-8C4D-EAE28BA4F112}|ECommerceMVC.csproj|c:\\k23cnt1_tranthebinh_netcorelearning\\ecommercemvc\\wwwroot\\testimonial.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73906F00-79E8-462A-8C4D-EAE28BA4F112}|ECommerceMVC.csproj|solutionrelative:wwwroot\\testimonial.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73906F00-79E8-462A-8C4D-EAE28BA4F112}|ECommerceMVC.csproj|c:\\k23cnt1_tranthebinh_netcorelearning\\ecommercemvc\\wwwroot\\shop.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73906F00-79E8-462A-8C4D-EAE28BA4F112}|ECommerceMVC.csproj|solutionrelative:wwwroot\\shop.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73906F00-79E8-462A-8C4D-EAE28BA4F112}|ECommerceMVC.csproj|c:\\k23cnt1_tranthebinh_netcorelearning\\ecommercemvc\\wwwroot\\shop-detail.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73906F00-79E8-462A-8C4D-EAE28BA4F112}|ECommerceMVC.csproj|solutionrelative:wwwroot\\shop-detail.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73906F00-79E8-462A-8C4D-EAE28BA4F112}|ECommerceMVC.csproj|c:\\k23cnt1_tranthebinh_netcorelearning\\ecommercemvc\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73906F00-79E8-462A-8C4D-EAE28BA4F112}|ECommerceMVC.csproj|solutionrelative:wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73906F00-79E8-462A-8C4D-EAE28BA4F112}|ECommerceMVC.csproj|c:\\k23cnt1_tranthebinh_netcorelearning\\ecommercemvc\\wwwroot\\contact.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73906F00-79E8-462A-8C4D-EAE28BA4F112}|ECommerceMVC.csproj|solutionrelative:wwwroot\\contact.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73906F00-79E8-462A-8C4D-EAE28BA4F112}|ECommerceMVC.csproj|c:\\k23cnt1_tranthebinh_netcorelearning\\ecommercemvc\\wwwroot\\chackout.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73906F00-79E8-462A-8C4D-EAE28BA4F112}|ECommerceMVC.csproj|solutionrelative:wwwroot\\chackout.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73906F00-79E8-462A-8C4D-EAE28BA4F112}|ECommerceMVC.csproj|c:\\k23cnt1_tranthebinh_netcorelearning\\ecommercemvc\\wwwroot\\cart.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73906F00-79E8-462A-8C4D-EAE28BA4F112}|ECommerceMVC.csproj|solutionrelative:wwwroot\\cart.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73906F00-79E8-462A-8C4D-EAE28BA4F112}|ECommerceMVC.csproj|c:\\k23cnt1_tranthebinh_netcorelearning\\ecommercemvc\\wwwroot\\scss\\bootstrap\\bootstrap.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{73906F00-79E8-462A-8C4D-EAE28BA4F112}|ECommerceMVC.csproj|solutionrelative:wwwroot\\scss\\bootstrap\\bootstrap.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73906F00-79E8-462A-8C4D-EAE28BA4F112}|ECommerceMVC.csproj|c:\\k23cnt1_tranthebinh_netcorelearning\\ecommercemvc\\data\\hanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73906F00-79E8-462A-8C4D-EAE28BA4F112}|ECommerceMVC.csproj|solutionrelative:data\\hanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73906F00-79E8-462A-8C4D-EAE28BA4F112}|ECommerceMVC.csproj|c:\\k23cnt1_tranthebinh_netcorelearning\\ecommercemvc\\viewcomponents\\cartviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73906F00-79E8-462A-8C4D-EAE28BA4F112}|ECommerceMVC.csproj|solutionrelative:viewcomponents\\cartviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73906F00-79E8-462A-8C4D-EAE28BA4F112}|ECommerceMVC.csproj|c:\\k23cnt1_tranthebinh_netcorelearning\\ecommercemvc\\controllers\\hanghoascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73906F00-79E8-462A-8C4D-EAE28BA4F112}|ECommerceMVC.csproj|solutionrelative:controllers\\hanghoascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73906F00-79E8-462A-8C4D-EAE28BA4F112}|ECommerceMVC.csproj|c:\\k23cnt1_tranthebinh_netcorelearning\\ecommercemvc\\viewmodels\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73906F00-79E8-462A-8C4D-EAE28BA4F112}|ECommerceMVC.csproj|solutionrelative:viewmodels\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73906F00-79E8-462A-8C4D-EAE28BA4F112}|ECommerceMVC.csproj|c:\\k23cnt1_tranthebinh_netcorelearning\\ecommercemvc\\wwwroot\\js\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{73906F00-79E8-462A-8C4D-EAE28BA4F112}|ECommerceMVC.csproj|solutionrelative:wwwroot\\js\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73906F00-79E8-462A-8C4D-EAE28BA4F112}|ECommerceMVC.csproj|c:\\k23cnt1_tranthebinh_netcorelearning\\ecommercemvc\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{73906F00-79E8-462A-8C4D-EAE28BA4F112}|ECommerceMVC.csproj|solutionrelative:views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73906F00-79E8-462A-8C4D-EAE28BA4F112}|ECommerceMVC.csproj|c:\\k23cnt1_tranthebinh_netcorelearning\\ecommercemvc\\wwwroot\\css\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{73906F00-79E8-462A-8C4D-EAE28BA4F112}|ECommerceMVC.csproj|solutionrelative:wwwroot\\css\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73906F00-79E8-462A-8C4D-EAE28BA4F112}|ECommerceMVC.csproj|c:\\k23cnt1_tranthebinh_netcorelearning\\ecommercemvc\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{73906F00-79E8-462A-8C4D-EAE28BA4F112}|ECommerceMVC.csproj|solutionrelative:wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73906F00-79E8-462A-8C4D-EAE28BA4F112}|ECommerceMVC.csproj|c:\\k23cnt1_tranthebinh_netcorelearning\\ecommercemvc\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{73906F00-79E8-462A-8C4D-EAE28BA4F112}|ECommerceMVC.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73906F00-79E8-462A-8C4D-EAE28BA4F112}|ECommerceMVC.csproj|c:\\k23cnt1_tranthebinh_netcorelearning\\ecommercemvc\\views\\shared\\components\\menuloai\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73906F00-79E8-462A-8C4D-EAE28BA4F112}|ECommerceMVC.csproj|solutionrelative:views\\shared\\components\\menuloai\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73906F00-79E8-462A-8C4D-EAE28BA4F112}|ECommerceMVC.csproj|c:\\k23cnt1_tranthebinh_netcorelearning\\ecommercemvc\\views\\shared\\components\\cart\\cartpanel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73906F00-79E8-462A-8C4D-EAE28BA4F112}|ECommerceMVC.csproj|solutionrelative:views\\shared\\components\\cart\\cartpanel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73906F00-79E8-462A-8C4D-EAE28BA4F112}|ECommerceMVC.csproj|c:\\k23cnt1_tranthebinh_netcorelearning\\ecommercemvc\\data\\loai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73906F00-79E8-462A-8C4D-EAE28BA4F112}|ECommerceMVC.csproj|solutionrelative:data\\loai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73906F00-79E8-462A-8C4D-EAE28BA4F112}|ECommerceMVC.csproj|c:\\k23cnt1_tranthebinh_netcorelearning\\ecommercemvc\\data\\hshop2023context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73906F00-79E8-462A-8C4D-EAE28BA4F112}|ECommerceMVC.csproj|solutionrelative:data\\hshop2023context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73906F00-79E8-462A-8C4D-EAE28BA4F112}|ECommerceMVC.csproj|c:\\k23cnt1_tranthebinh_netcorelearning\\ecommercemvc\\helpers\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73906F00-79E8-462A-8C4D-EAE28BA4F112}|ECommerceMVC.csproj|solutionrelative:helpers\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73906F00-79E8-462A-8C4D-EAE28BA4F112}|ECommerceMVC.csproj|c:\\k23cnt1_tranthebinh_netcorelearning\\ecommercemvc\\viewcomponents\\menuloaiviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73906F00-79E8-462A-8C4D-EAE28BA4F112}|ECommerceMVC.csproj|solutionrelative:viewcomponents\\menuloaiviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73906F00-79E8-462A-8C4D-EAE28BA4F112}|ECommerceMVC.csproj|c:\\k23cnt1_tranthebinh_netcorelearning\\ecommercemvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73906F00-79E8-462A-8C4D-EAE28BA4F112}|ECommerceMVC.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73906F00-79E8-462A-8C4D-EAE28BA4F112}|ECommerceMVC.csproj|c:\\k23cnt1_tranthebinh_netcorelearning\\ecommercemvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73906F00-79E8-462A-8C4D-EAE28BA4F112}|ECommerceMVC.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73906F00-79E8-462A-8C4D-EAE28BA4F112}|ECommerceMVC.csproj|c:\\k23cnt1_tranthebinh_netcorelearning\\ecommercemvc\\controllers\\khachhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73906F00-79E8-462A-8C4D-EAE28BA4F112}|ECommerceMVC.csproj|solutionrelative:controllers\\khachhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73906F00-79E8-462A-8C4D-EAE28BA4F112}|ECommerceMVC.csproj|c:\\k23cnt1_tranthebinh_netcorelearning\\ecommercemvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73906F00-79E8-462A-8C4D-EAE28BA4F112}|ECommerceMVC.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73906F00-79E8-462A-8C4D-EAE28BA4F112}|ECommerceMVC.csproj|c:\\k23cnt1_tranthebinh_netcorelearning\\ecommercemvc\\viewmodels\\cartmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73906F00-79E8-462A-8C4D-EAE28BA4F112}|ECommerceMVC.csproj|solutionrelative:viewmodels\\cartmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73906F00-79E8-462A-8C4D-EAE28BA4F112}|ECommerceMVC.csproj|c:\\k23cnt1_tranthebinh_netcorelearning\\ecommercemvc\\helpers\\myutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73906F00-79E8-462A-8C4D-EAE28BA4F112}|ECommerceMVC.csproj|solutionrelative:helpers\\myutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "chackout.html",
+              "DocumentMoniker": "C:\\k23cnt1_TranTheBinh_NETCoreLearning\\ECommerceMVC\\wwwroot\\chackout.html",
+              "RelativeDocumentMoniker": "wwwroot\\chackout.html",
+              "ToolTip": "C:\\k23cnt1_TranTheBinh_NETCoreLearning\\ECommerceMVC\\wwwroot\\chackout.html",
+              "RelativeToolTip": "wwwroot\\chackout.html",
+              "ViewState": "AgIAAG8BAAAAAAAAAAAIwKsBAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-08-26T03:08:32.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HangHoaController.cs",
+              "DocumentMoniker": "C:\\k23cnt1_TranTheBinh_NETCoreLearning\\ECommerceMVC\\Controllers\\HangHoaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HangHoaController.cs",
+              "ToolTip": "C:\\k23cnt1_TranTheBinh_NETCoreLearning\\ECommerceMVC\\Controllers\\HangHoaController.cs",
+              "RelativeToolTip": "Controllers\\HangHoaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T01:57:40.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "404.html",
+              "DocumentMoniker": "C:\\k23cnt1_TranTheBinh_NETCoreLearning\\ECommerceMVC\\wwwroot\\404.html",
+              "RelativeDocumentMoniker": "wwwroot\\404.html",
+              "ToolTip": "C:\\k23cnt1_TranTheBinh_NETCoreLearning\\ECommerceMVC\\wwwroot\\404.html",
+              "RelativeToolTip": "wwwroot\\404.html",
+              "ViewState": "AgIAAKgAAAAAAAAAAAAIwPAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-08-26T03:07:32.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ECommerceMVC.csproj",
+              "DocumentMoniker": "C:\\k23cnt1_TranTheBinh_NETCoreLearning\\ECommerceMVC\\ECommerceMVC.csproj",
+              "RelativeDocumentMoniker": "ECommerceMVC.csproj",
+              "ToolTip": "C:\\k23cnt1_TranTheBinh_NETCoreLearning\\ECommerceMVC\\ECommerceMVC.csproj",
+              "RelativeToolTip": "ECommerceMVC.csproj",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-25T00:44:00.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\k23cnt1_TranTheBinh_NETCoreLearning\\ECommerceMVC\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\k23cnt1_TranTheBinh_NETCoreLearning\\ECommerceMVC\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAgwC8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T01:01:56.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "contact.html",
+              "DocumentMoniker": "C:\\k23cnt1_TranTheBinh_NETCoreLearning\\ECommerceMVC\\wwwroot\\contact.html",
+              "RelativeDocumentMoniker": "wwwroot\\contact.html",
+              "ToolTip": "C:\\k23cnt1_TranTheBinh_NETCoreLearning\\ECommerceMVC\\wwwroot\\contact.html",
+              "RelativeToolTip": "wwwroot\\contact.html",
+              "ViewState": "AgIAAOQAAAAAAAAAAAAIwBcBAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-08-26T03:09:17.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\k23cnt1_TranTheBinh_NETCoreLearning\\ECommerceMVC\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\k23cnt1_TranTheBinh_NETCoreLearning\\ECommerceMVC\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-25T00:50:37.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\k23cnt1_TranTheBinh_NETCoreLearning\\ECommerceMVC\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "wwwroot\\index.html",
+              "ToolTip": "C:\\k23cnt1_TranTheBinh_NETCoreLearning\\ECommerceMVC\\wwwroot\\index.html",
+              "RelativeToolTip": "wwwroot\\index.html",
+              "ViewState": "AgIAAIwEAAAAAAAAAAAIwKEEAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-08-26T03:10:34.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "shop-detail.html",
+              "DocumentMoniker": "C:\\k23cnt1_TranTheBinh_NETCoreLearning\\ECommerceMVC\\wwwroot\\shop-detail.html",
+              "RelativeDocumentMoniker": "wwwroot\\shop-detail.html",
+              "ToolTip": "C:\\k23cnt1_TranTheBinh_NETCoreLearning\\ECommerceMVC\\wwwroot\\shop-detail.html",
+              "RelativeToolTip": "wwwroot\\shop-detail.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-08-26T03:11:37.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "shop.html",
+              "DocumentMoniker": "C:\\k23cnt1_TranTheBinh_NETCoreLearning\\ECommerceMVC\\wwwroot\\shop.html",
+              "RelativeDocumentMoniker": "wwwroot\\shop.html",
+              "ToolTip": "C:\\k23cnt1_TranTheBinh_NETCoreLearning\\ECommerceMVC\\wwwroot\\shop.html",
+              "RelativeToolTip": "wwwroot\\shop.html",
+              "ViewState": "AgIAABcCAAAAAAAAAAAIwDICAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-08-26T03:13:08.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "testimonial.html",
+              "DocumentMoniker": "C:\\k23cnt1_TranTheBinh_NETCoreLearning\\ECommerceMVC\\wwwroot\\testimonial.html",
+              "RelativeDocumentMoniker": "wwwroot\\testimonial.html",
+              "ToolTip": "C:\\k23cnt1_TranTheBinh_NETCoreLearning\\ECommerceMVC\\wwwroot\\testimonial.html",
+              "RelativeToolTip": "wwwroot\\testimonial.html",
+              "ViewState": "AgIAAPYAAAAAAAAAAAAIwDsBAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-08-26T03:13:46.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "cart.html",
+              "DocumentMoniker": "C:\\k23cnt1_TranTheBinh_NETCoreLearning\\ECommerceMVC\\wwwroot\\cart.html",
+              "RelativeDocumentMoniker": "wwwroot\\cart.html",
+              "ToolTip": "C:\\k23cnt1_TranTheBinh_NETCoreLearning\\ECommerceMVC\\wwwroot\\cart.html",
+              "RelativeToolTip": "wwwroot\\cart.html",
+              "ViewState": "AgIAAGcBAAAAAAAAAAAIwIIBAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-08-26T03:06:45.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "bootstrap.scss",
+              "DocumentMoniker": "C:\\k23cnt1_TranTheBinh_NETCoreLearning\\ECommerceMVC\\wwwroot\\scss\\bootstrap\\bootstrap.scss",
+              "RelativeDocumentMoniker": "wwwroot\\scss\\bootstrap\\bootstrap.scss",
+              "ToolTip": "C:\\k23cnt1_TranTheBinh_NETCoreLearning\\ECommerceMVC\\wwwroot\\scss\\bootstrap\\bootstrap.scss",
+              "RelativeToolTip": "wwwroot\\scss\\bootstrap\\bootstrap.scss",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2025-08-26T03:01:58.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CartViewComponent.cs",
+              "DocumentMoniker": "C:\\k23cnt1_TranTheBinh_NETCoreLearning\\ECommerceMVC\\ViewComponents\\CartViewComponent.cs",
+              "RelativeDocumentMoniker": "ViewComponents\\CartViewComponent.cs",
+              "ToolTip": "C:\\k23cnt1_TranTheBinh_NETCoreLearning\\ECommerceMVC\\ViewComponents\\CartViewComponent.cs",
+              "RelativeToolTip": "ViewComponents\\CartViewComponent.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAkwAgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T02:24:16.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HangHoa.cs",
+              "DocumentMoniker": "C:\\k23cnt1_TranTheBinh_NETCoreLearning\\ECommerceMVC\\Data\\HangHoa.cs",
+              "RelativeDocumentMoniker": "Data\\HangHoa.cs",
+              "ToolTip": "C:\\k23cnt1_TranTheBinh_NETCoreLearning\\ECommerceMVC\\Data\\HangHoa.cs",
+              "RelativeToolTip": "Data\\HangHoa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T02:15:17.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HangHoasController.cs",
+              "DocumentMoniker": "C:\\k23cnt1_TranTheBinh_NETCoreLearning\\ECommerceMVC\\Controllers\\HangHoasController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HangHoasController.cs",
+              "ToolTip": "C:\\k23cnt1_TranTheBinh_NETCoreLearning\\ECommerceMVC\\Controllers\\HangHoasController.cs",
+              "RelativeToolTip": "Controllers\\HangHoasController.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAwwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T01:07:46.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\k23cnt1_TranTheBinh_NETCoreLearning\\ECommerceMVC\\ViewModels\\CartItem.cs",
+              "RelativeDocumentMoniker": "ViewModels\\CartItem.cs",
+              "ToolTip": "C:\\k23cnt1_TranTheBinh_NETCoreLearning\\ECommerceMVC\\ViewModels\\CartItem.cs",
+              "RelativeToolTip": "ViewModels\\CartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAmwAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T01:19:54.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CartPanel.cshtml",
+              "DocumentMoniker": "C:\\k23cnt1_TranTheBinh_NETCoreLearning\\ECommerceMVC\\Views\\Shared\\Components\\Cart\\CartPanel.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Components\\Cart\\CartPanel.cshtml",
+              "ToolTip": "C:\\k23cnt1_TranTheBinh_NETCoreLearning\\ECommerceMVC\\Views\\Shared\\Components\\Cart\\CartPanel.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Components\\Cart\\CartPanel.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-25T02:43:31.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\k23cnt1_TranTheBinh_NETCoreLearning\\ECommerceMVC\\Views\\Shared\\Components\\MenuLoai\\Default.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Components\\MenuLoai\\Default.cshtml",
+              "ToolTip": "C:\\k23cnt1_TranTheBinh_NETCoreLearning\\ECommerceMVC\\Views\\Shared\\Components\\MenuLoai\\Default.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Components\\MenuLoai\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-25T02:45:56.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\k23cnt1_TranTheBinh_NETCoreLearning\\ECommerceMVC\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\k23cnt1_TranTheBinh_NETCoreLearning\\ECommerceMVC\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwCkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-08-25T02:34:42.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\k23cnt1_TranTheBinh_NETCoreLearning\\ECommerceMVC\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\k23cnt1_TranTheBinh_NETCoreLearning\\ECommerceMVC\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-08-25T02:48:36.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\k23cnt1_TranTheBinh_NETCoreLearning\\ECommerceMVC\\wwwroot\\css\\style.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\style.css",
+              "ToolTip": "C:\\k23cnt1_TranTheBinh_NETCoreLearning\\ECommerceMVC\\wwwroot\\css\\style.css",
+              "RelativeToolTip": "wwwroot\\css\\style.css",
+              "ViewState": "AgIAAM0BAAAAAAAAAAAIwPEBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-08-25T02:50:31.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "main.js",
+              "DocumentMoniker": "C:\\k23cnt1_TranTheBinh_NETCoreLearning\\ECommerceMVC\\wwwroot\\js\\main.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\main.js",
+              "ToolTip": "C:\\k23cnt1_TranTheBinh_NETCoreLearning\\ECommerceMVC\\wwwroot\\js\\main.js",
+              "RelativeToolTip": "wwwroot\\js\\main.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-08-25T17:01:54.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "bootstrap.min.css",
+              "DocumentMoniker": "C:\\k23cnt1_TranTheBinh_NETCoreLearning\\ECommerceMVC\\wwwroot\\css\\bootstrap.min.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\bootstrap.min.css",
+              "ToolTip": "C:\\k23cnt1_TranTheBinh_NETCoreLearning\\ECommerceMVC\\wwwroot\\css\\bootstrap.min.css",
+              "RelativeToolTip": "wwwroot\\css\\bootstrap.min.css",
+              "ViewState": "AgIAABAuAAAAAAAAAAAQwCouAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-08-25T02:51:49.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Loai.cs",
+              "DocumentMoniker": "C:\\k23cnt1_TranTheBinh_NETCoreLearning\\ECommerceMVC\\Data\\Loai.cs",
+              "RelativeDocumentMoniker": "Data\\Loai.cs",
+              "ToolTip": "C:\\k23cnt1_TranTheBinh_NETCoreLearning\\ECommerceMVC\\Data\\Loai.cs",
+              "RelativeToolTip": "Data\\Loai.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T01:59:53.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\k23cnt1_TranTheBinh_NETCoreLearning\\ECommerceMVC\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\k23cnt1_TranTheBinh_NETCoreLearning\\ECommerceMVC\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-25T01:49:50.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\k23cnt1_TranTheBinh_NETCoreLearning\\ECommerceMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\k23cnt1_TranTheBinh_NETCoreLearning\\ECommerceMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-25T01:49:14.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CartModel.cs",
+              "DocumentMoniker": "C:\\k23cnt1_TranTheBinh_NETCoreLearning\\ECommerceMVC\\ViewModels\\CartModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\CartModel.cs",
+              "ToolTip": "C:\\k23cnt1_TranTheBinh_NETCoreLearning\\ECommerceMVC\\ViewModels\\CartModel.cs",
+              "RelativeToolTip": "ViewModels\\CartModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T01:20:28.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "MenuLoaiViewComponent.cs",
+              "DocumentMoniker": "C:\\k23cnt1_TranTheBinh_NETCoreLearning\\ECommerceMVC\\ViewComponents\\MenuLoaiViewComponent.cs",
+              "RelativeDocumentMoniker": "ViewComponents\\MenuLoaiViewComponent.cs",
+              "ToolTip": "C:\\k23cnt1_TranTheBinh_NETCoreLearning\\ECommerceMVC\\ViewComponents\\MenuLoaiViewComponent.cs",
+              "RelativeToolTip": "ViewComponents\\MenuLoaiViewComponent.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T01:18:54.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "MyUtil.cs",
+              "DocumentMoniker": "C:\\k23cnt1_TranTheBinh_NETCoreLearning\\ECommerceMVC\\Helpers\\MyUtil.cs",
+              "RelativeDocumentMoniker": "Helpers\\MyUtil.cs",
+              "ToolTip": "C:\\k23cnt1_TranTheBinh_NETCoreLearning\\ECommerceMVC\\Helpers\\MyUtil.cs",
+              "RelativeToolTip": "Helpers\\MyUtil.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T01:16:08.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "C:\\k23cnt1_TranTheBinh_NETCoreLearning\\ECommerceMVC\\Helpers\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "Helpers\\AutoMapperProfile.cs",
+              "ToolTip": "C:\\k23cnt1_TranTheBinh_NETCoreLearning\\ECommerceMVC\\Helpers\\AutoMapperProfile.cs",
+              "RelativeToolTip": "Helpers\\AutoMapperProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T01:14:12.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "KhachHangController.cs",
+              "DocumentMoniker": "C:\\k23cnt1_TranTheBinh_NETCoreLearning\\ECommerceMVC\\Controllers\\KhachHangController.cs",
+              "RelativeDocumentMoniker": "Controllers\\KhachHangController.cs",
+              "ToolTip": "C:\\k23cnt1_TranTheBinh_NETCoreLearning\\ECommerceMVC\\Controllers\\KhachHangController.cs",
+              "RelativeToolTip": "Controllers\\KhachHangController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T01:12:50.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Hshop2023Context.cs",
+              "DocumentMoniker": "C:\\k23cnt1_TranTheBinh_NETCoreLearning\\ECommerceMVC\\Data\\Hshop2023Context.cs",
+              "RelativeDocumentMoniker": "Data\\Hshop2023Context.cs",
+              "ToolTip": "C:\\k23cnt1_TranTheBinh_NETCoreLearning\\ECommerceMVC\\Data\\Hshop2023Context.cs",
+              "RelativeToolTip": "Data\\Hshop2023Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T00:59:49.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\k23cnt1_TranTheBinh_NETCoreLearning\\ECommerceMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\k23cnt1_TranTheBinh_NETCoreLearning\\ECommerceMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T00:38:59.205Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

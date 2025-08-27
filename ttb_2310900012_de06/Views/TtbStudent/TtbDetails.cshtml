@@ -1,0 +1,11 @@
+﻿@model ttb_2310900012_de06.Models.TtbStudent
+
+<h2>Chi tiết sinh viên</h2>
+<p>Mã số: @Model.TtbStudId</p>
+<p>Họ tên: @Model.TtbStudName</p>
+<p>Tuổi: @Model.TtbStudAge</p>
+<p>Giới tính: @Model.TtbStudGender</p>
+<p>Email: @Model.TtbEmail</p>
+<p>Trạng thái: @(Model.TtbStudStatus ? "Hoạt động" : "Không")</p>
+
+<a href="/TtbStudent/TtbIndex">Quay lại</a>

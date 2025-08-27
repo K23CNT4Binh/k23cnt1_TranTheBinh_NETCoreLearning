@@ -1,0 +1,61 @@
+﻿@model ttb_2310900012_de06.Models.TtbStudent
+
+@{
+    ViewData["Title"] = "Thêm sinh viên mới";
+}
+
+<h2 class="text-primary">Thêm sinh viên mới</h2>
+
+<form asp-action="TtbCreate" method="post" class="mt-3">
+
+    <div class="mb-3">
+        <label asp-for="TtbStudId" class="form-label">Mã số</label>
+        <input asp-for="TtbStudId" class="form-control" />
+        <span asp-validation-for="TtbStudId" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="TtbStudName" class="form-label">Họ tên</label>
+        <input asp-for="TtbStudName" class="form-control" />
+        <span asp-validation-for="TtbStudName" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="TtbStudAge" class="form-label">Tuổi</label>
+        <input asp-for="TtbStudAge" class="form-control" />
+        <span asp-validation-for="TtbStudAge" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="TtbStudGender" class="form-label">Giới tính</label>
+        <select asp-for="TtbStudGender" class="form-select">
+            <option value="">-- Chọn giới tính --</option>
+            <option value="Nam">Nam</option>
+            <option value="Nữ">Nữ</option>
+        </select>
+        <span asp-validation-for="TtbStudGender" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="TtbEmail" class="form-label">Email</label>
+        <input asp-for="TtbEmail" class="form-control" />
+        <span asp-validation-for="TtbEmail" class="text-danger"></span>
+    </div>
+
+    <div class="form-check mb-3">
+        <input asp-for="TtbStudStatus" class="form-check-input" />
+        <label asp-for="TtbStudStatus" class="form-check-label">Đang học</label>
+        <span asp-validation-for="TtbStudStatus" class="text-danger"></span>
+    </div>
+
+    <div class="d-flex gap-2">
+        <button type="submit" class="btn btn-success">Lưu</button>
+        <a asp-action="TtbIndex" class="btn btn-secondary">Quay lại</a>
+    </div>
+</form>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

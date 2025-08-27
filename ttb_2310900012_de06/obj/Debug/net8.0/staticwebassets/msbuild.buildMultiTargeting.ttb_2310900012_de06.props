@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ttb_2310900012_de06.props" />
+</Project>

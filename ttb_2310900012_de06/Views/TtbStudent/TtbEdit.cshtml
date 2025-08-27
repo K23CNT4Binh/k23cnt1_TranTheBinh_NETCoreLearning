@@ -1,0 +1,49 @@
+﻿@model ttb_2310900012_de06.Models.TtbStudent
+
+@{
+    ViewData["Title"] = "Sửa sinh viên";
+}
+
+<h2 class="text-primary">Sửa thông tin sinh viên</h2>
+
+<form asp-action="TtbEdit" method="post">
+    <input type="hidden" asp-for="TtbStudId" />
+
+    <div class="mb-3">
+        <label asp-for="TtbStudName" class="form-label"></label>
+        <input asp-for="TtbStudName" class="form-control" />
+        <span asp-validation-for="TtbStudName" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="TtbStudAge" class="form-label"></label>
+        <input asp-for="TtbStudAge" class="form-control" />
+        <span asp-validation-for="TtbStudAge" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="TtbStudGender" class="form-label"></label>
+        <input asp-for="TtbStudGender" class="form-control" />
+        <span asp-validation-for="TtbStudGender" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="TtbEmail" class="form-label"></label>
+        <input asp-for="TtbEmail" class="form-control" />
+        <span asp-validation-for="TtbEmail" class="text-danger"></span>
+    </div>
+
+    <div class="form-check mb-3">
+        <input asp-for="TtbStudStatus" class="form-check-input" />
+        <label asp-for="TtbStudStatus" class="form-check-label"></label>
+    </div>
+
+    <button type="submit" class="btn btn-success">Lưu</button>
+    <a asp-action="TtbIndex" class="btn btn-secondary">Quay lại</a>
+</form>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

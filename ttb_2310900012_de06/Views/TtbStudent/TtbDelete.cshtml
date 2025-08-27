@@ -1,0 +1,21 @@
+﻿@model ttb_2310900012_de06.Models.TtbStudent
+
+@{
+    ViewData["Title"] = "Xác nhận xóa";
+}
+
+<div class="card mt-4 shadow">
+    <div class="card-body">
+        <h3 class="text-danger">Xác nhận xóa</h3>
+        <p>Bạn có chắc muốn xóa sinh viên: <strong class="text-dark">@Model.TtbStudName</strong>?</p>
+
+        <form method="post">
+            <input type="hidden" asp-for="TtbStudId" />
+
+            <div class="d-flex gap-2 mt-3">
+                <button type="submit" class="btn btn-danger">Xóa</button>
+                <a asp-action="TtbIndex" class="btn btn-secondary">Hủy</a>
+            </div>
+        </form>
+    </div>
+</div>

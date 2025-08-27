@@ -1,0 +1,49 @@
+﻿@model List<ttb_2310900012_de06.Models.TtbStudent>
+
+@{
+    ViewData["Title"] = "Danh sách sinh viên";
+}
+
+<h2 class="text-primary">Danh sách sinh viên</h2>
+<a asp-action="TtbCreate" class="btn btn-success mb-3">+ Thêm mới</a>
+
+<table class="table table-bordered table-hover">
+    <thead class="table-dark">
+        <tr>
+            <th>Id</th>
+            <th>Họ tên</th>
+            <th>Tuổi</th>
+            <th>Giới tính</th>
+            <th>Email</th>
+            <th>Trạng thái</th>
+            <th>Hành động</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var sv in Model)
+        {
+            <tr>
+                <td>@sv.TtbStudId</td>
+                <td>@sv.TtbStudName</td>
+                <td>@sv.TtbStudAge</td>
+                <td>@sv.TtbStudGender</td>
+                <td>@sv.TtbEmail</td>
+                <td>
+                    @if (sv.TtbStudStatus)
+                    {
+                        <span class="text-success fw-bold">Hoạt động</span>
+                    }
+                    else
+                    {
+                        <span class="text-danger fw-bold">Khóa</span>
+                    }
+                </td>
+                <td>
+                    <a asp-action="TtbDetails" asp-route-id="@sv.TtbStudId" class="btn btn-info btn-sm">Chi tiết</a>
+                    <a asp-action="TtbEdit" asp-route-id="@sv.TtbStudId" class="btn btn-warning btn-sm">Sửa</a>
+                    <a asp-action="TtbDelete" asp-route-id="@sv.TtbStudId" class="btn btn-danger btn-sm">Xóa</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
